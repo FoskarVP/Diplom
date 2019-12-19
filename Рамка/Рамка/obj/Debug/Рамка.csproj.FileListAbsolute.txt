@@ -1,0 +1,12 @@
+C:\Users\spolo\source\repos\Рамка\Рамка\bin\Debug\Рамка.exe.config
+C:\Users\spolo\source\repos\Рамка\Рамка\bin\Debug\Рамка.exe
+C:\Users\spolo\source\repos\Рамка\Рамка\bin\Debug\Рамка.pdb
+C:\Users\spolo\source\repos\Рамка\Рамка\obj\Debug\Рамка.csprojAssemblyReference.cache
+C:\Users\spolo\source\repos\Рамка\Рамка\obj\Debug\Рамка.Form1.resources
+C:\Users\spolo\source\repos\Рамка\Рамка\obj\Debug\Рамка.Properties.Resources.resources
+C:\Users\spolo\source\repos\Рамка\Рамка\obj\Debug\Рамка.csproj.GenerateResource.cache
+C:\Users\spolo\source\repos\Рамка\Рамка\obj\Debug\Рамка.csproj.CoreCompileInputs.cache
+C:\Users\spolo\source\repos\Рамка\Рамка\obj\Debug\Рамка.exe
+C:\Users\spolo\source\repos\Рамка\Рамка\obj\Debug\Рамка.pdb
+C:\Users\spolo\source\repos\Рамка\Рамка\bin\Debug\MySql.Data.dll
+C:\Users\spolo\source\repos\Рамка\Рамка\obj\Debug\Рамка.csproj.CopyComplete
